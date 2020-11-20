@@ -20,7 +20,6 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [] List anything else that you can get done to improve the app functionality!
 * [] User will be able to see time and date that items were added to the todo list
 
 ## Video Walkthrough
