@@ -34,6 +34,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+I have not encountered any significant challenges whilst making this app.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
